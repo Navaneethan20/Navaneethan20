@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Thulasi Navaneethan N 👋  
+🚀 Full-Stack Developer | AI & ML Enthusiast | Open-Source Contributor  
 
-<!--
-**Navaneethan20/Navaneethan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.E CSE** - Madha Engineering College  
+💼 **AI Prompt Engineer at Yartech Services**  
+🔍 Passionate about AI-powered solutions, finance tech, and web development.  
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express.js, Firebase  
+- **Databases:** MySQL, MongoDB, Firestore  
+- **AI/ML:** Python, NLP, AI-powered Analysis  
+- **Tools:** Git, Postman, Docker, Vercel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+🔹 [Flight Booking App (MERN)](https://github.com/Dhayanithi05/Flight-Booking-MERN-Webapp) - Secure flight booking with real-time search.  
+🔹 [Sentiment Analysis Model](https://github.com/Navaneethan20/sentiment-analysis) - NLP-based sentiment classification.  
+🔹 [AI-Powered Finance Assistant](https://github.com/Navaneethan20/AI-finance-assistant) - AI-driven expense analysis.  
+🔹 [Mood-Based Movie Recommender](https://github.com/Navaneethan20/mood-movies) - Recommends movies based on mood.  
+
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/navaneethan-n-8415432ab/) | [GitHub](https://github.com/Navaneethan20) | [Email](mailto:thulasinavaneethan22@gmail.com)  
