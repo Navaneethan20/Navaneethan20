@@ -14,7 +14,7 @@
 
 ## 📌 Featured Projects  
 🔹 [Flight Booking App (MERN)](https://github.com/Dhayanithi05/Flight-Booking-MERN-Webapp) - Secure flight booking with real-time search.  
-🔹 [Sentiment Analysis Model](https://github.com/Navaneethan20/sentiment-analysis) - NLP-based sentiment classification.  
+🔹 [Sentiment Analysis Model](https://github.com/sharmaroshan/Twitter-Sentiment-Analysis) - NLP-based sentiment classification.  
 🔹 [AI-Powered Finance Assistant](https://github.com/Navaneethan20/AI-finance-assistant) - AI-driven expense analysis.  
 🔹 [Mood-Based Movie Recommender](https://github.com/Navaneethan20/mood-movies) - Recommends movies based on mood.  
 
