@@ -1,4 +1,4 @@
-# Hi, I'm Thulasi Navaneethan N 👋  
+# Hi, I'm Navaneethan N 👋  
 🚀 Full-Stack Developer | AI & ML Enthusiast | Open-Source Contributor  
 
 🎓 **B.E CSE** - Madha Engineering College  
