@@ -14,7 +14,7 @@ Developer | AI & ML Enthusiast | Open-Source Contributor
 
 ## 📌 Featured Projects  
 🔹 [Flight Booking App (MERN)](https://github.com/Dhayanithi05/Flight-Booking-MERN-Webapp) - Secure flight booking with real-time search.  
-🔹 [AI-Powered Finance Assistant](https://github.com/Navaneethan20/AI-finance-assistant) - AI-driven expense analysis.  
+🔹 [AI-Powered Finance Assistant](https://ai-finance-assistant-b6pz.vercel.app/) - AI-driven expense analysis.  
 
 📫 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/navaneethan-n-8415432ab/) | [GitHub](https://github.com/Navaneethan20) | [Email](mailto:thulasinavaneethan22@gmail.com)  
