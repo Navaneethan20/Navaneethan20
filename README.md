@@ -17,4 +17,4 @@ Developer | AI & ML Enthusiast | Open-Source Contributor
 🔹 [AI-Powered Finance Assistant](https://ai-finance-assistant-b6pz.vercel.app/) - AI-driven expense analysis.  
 
 📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/navaneethan-n-8415432ab/) | [GitHub](https://github.com/Navaneethan20) | [Email](mailto:thulasinavaneethan22@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/navaneethan-n-8415432ab/) | [GitHub](https://github.com/Navaneethan20) | [Email](mailto:thulasinavaneethan22@gmail.com) | [Portfolio](https://v0-portfolio-black-two.vercel.app/) 
