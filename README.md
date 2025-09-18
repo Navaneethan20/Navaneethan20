@@ -15,7 +15,7 @@ Developer | AI & ML Enthusiast | Open-Source Contributor
 ## 📌 Featured Projects  
 🔹 [Flight Booking App (MERN)](https://github.com/Dhayanithi05/Flight-Booking-MERN-Webapp) - Secure flight booking with real-time search.  
 🔹 [AI-Powered Finance Assistant](https://ai-finance-assistant-b6pz.vercel.app/) - AI-driven expense analysis.
-🔹 [SEI – Habit Tracker App](https://github.com/Navaneethan20/SEI---Habit-Tracker-App) - Full-stack habit tracking system with streaks, reminders & User authentication.
+🔹 [SEI – Habit Tracker App](https://github.com/Navaneethan20/SEI---Habit-Tracker-App) - Full-stack habit tracking system with streaks, reminders.
 
 📫 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/navaneethan-n-8415432ab/) | [GitHub](https://github.com/Navaneethan20) | [Email](mailto:thulasinavaneethan22@gmail.com) | [Portfolio](https://v0-portfolio-black-two.vercel.app/) 
